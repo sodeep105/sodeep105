@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sodeep105" alt="sodeep105" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sodeep105&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sodeep105&theme=dark" alt="GitHub Streak" /></a>
