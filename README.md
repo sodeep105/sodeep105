@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sodeep105" alt="sodeep105" /></p>
 
-[![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=sodeep105)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sodeep105&theme=dark)](https://git.io/streak-stats)
