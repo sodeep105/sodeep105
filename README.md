@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudip Kumar Sengupta</h1>
+<h1 align="center">Hi 👋, I'm Sudip </h1>
 <h3 align="center">I'm passionate about AI and making sense of data, based in Buffalo, NY</h3>
 
 - 🔭 I’m currently working on **Computer Vision and LLM**
