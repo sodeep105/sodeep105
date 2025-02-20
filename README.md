@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=sodeep105&theme=dark" alt="sodeep105" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sodeep105&theme=dark" alt="GitHub Streak" /></a>
+
