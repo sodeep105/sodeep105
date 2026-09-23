@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Machine Learning, Reinforcement Learning and Databases**
 
-- 📫 How to reach me **sudipkum@buffalo.edu**
+- 📫 How to reach me **sudipdlc@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VZBzABewSLE-71MfoH3SpZhoYLBceAAZ/view?usp=sharing](https://drive.google.com/file/d/1VZBzABewSLE-71MfoH3SpZhoYLBceAAZ/view?usp=sharing)
 
